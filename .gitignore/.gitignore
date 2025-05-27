@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Dependency directories (if you use npm later)
+node_modules/
+
+# Build output (if using build tools like Webpack/Vite in the future)
+dist/
+build/
+
+# Environment files (if ever needed)
+.env
+.env.*
+
+# Optional: Ignore generated files like coverage reports or temporary stuff
+coverage/
+*.tmp
+*.swp
